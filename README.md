@@ -1,1 +1,1 @@
-Steuerung eines Buggys mittels Arduino, einem Motor und einen Ultraschallsensor(HC-SR04)
+Steuerung eines Buggys mittels Arduino, einem Motor, dem Gyro/Beschleunigungssensor MPU6050 und dem Ultraschallsensor HC-SR04
